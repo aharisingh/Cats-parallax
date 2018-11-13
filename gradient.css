@@ -1,0 +1,10 @@
+.big{
+    height: 400px;
+    background: linear-gradient(#999,rgb(50,50,50),black);
+   color: #fff;
+}
+.small{
+    height: 400px;
+    background: radial-gradient(#444,rgb(50,50,50));
+    color: #fff;
+}

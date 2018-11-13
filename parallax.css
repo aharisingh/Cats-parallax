@@ -1,0 +1,15 @@
+div{
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+h1{
+    position: relative;
+    top: 300px;
+   text-align: center;
+    margin: auto;
+    color: turquoise;
+}
+
